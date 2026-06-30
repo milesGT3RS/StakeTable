@@ -1,4 +1,5 @@
 //Source Code: https://curiousscientist.tech/blog/arduino-accelstepper-tb6600-stepper-motor
+//Implementations mentioning "shake" were created by Myles Dixson
 //Transforming the motor's rotary motion into linear motion by using a threaded rod:
 //Threaded rod's pitch = 2 mm. This means that one revolution will move the nut 2 mm.
 //Default stepping = 400 step/revolution.
